@@ -18,5 +18,7 @@
 1. 扩散模型
 ![Diffusion Model](./Diffusion model.jpg)
 ![Diffusion Model](./DM explain.jpg)
-
+2. 图像生产过程中，大部分过程发生在“Latent space”---减少内存和算力的消耗
+3. WebUI 无法对生成后的图片进行操作，ComfyUI 可以对生成后的信息进行组合、微调
+4. 
 
